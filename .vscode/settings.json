@@ -1,0 +1,11 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/i18n/lang",
+        "public/tinymce/langs",
+        
+    ],
+    "i18n-ally.sourceLanguage": "ja-JP",
+    "i18n-ally.displayLanguage": "ja-JP",
+    "i18n-ally.pathMatcher": "{locale}.json",
+    "i18n-ally.keystyle": "nested"
+}

@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "stylelint.vscode-stylelint",
+      "antfu.i18n-ally",
+      "alefragnani.bookmarks",
+      "coenraadS.bracket-pair-colorizer-2",
+      "vincaslt.highlight-matching-tag",
+      "oderwat.indent-rainbow",
+      "yzhang.markdown-all-in-one",
+      "ryu1kn.partial-diff",
+      "marclipovsky.string-manipulation",
+      "tabnine.tabnine-vscode"
+    ]
+}
